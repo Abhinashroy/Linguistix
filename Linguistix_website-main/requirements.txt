@@ -1,0 +1,9 @@
+setuptools>=65.5.0
+Flask
+torch
+numpy
+librosa
+SoundFile
+matplotlib
+scikit-learn
+gunicorn==20.1.0
